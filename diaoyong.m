@@ -1,0 +1,1 @@
+globalImage = Difficult.stitchDifficultImages('C:\Users\huawei\Documents\MATLAB\jiqishijue');
